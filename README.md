@@ -113,7 +113,3 @@ network-interactions-catalan/
 Les dades reflecteixen les interaccions documentades en els conjunts d'origen disponibles a GloBI; no són un inventari complet de totes les interaccions que existeixen a la natura. La cobertura depèn dels estudis, organismes i fonts incorporats a la base de dades. Els registres repetits poden correspondre a observacions o referències diferents de la mateixa combinació de tàxons i tipus d'interacció.
 
 A més, els tàxons poden aparèixer en diferents nivells de classificació i la xarxa visible canvia amb els filtres. La mida dels nodes i la distribució espacial serveixen per explorar les relacions, però no s'han d'interpretar com una mesura directa de l'abundància dels organismes o de la intensitat ecològica de la interacció.
-
----
-
-*Projecte de visualització interactiva de dades d'interaccions biològiques amb finalitats exploratòries i informatives.*
